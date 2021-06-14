@@ -73,7 +73,7 @@ I am a person who is passionate about cybersecurity and development 💙. I star
 
 | ANDROID | iOS | FRAMEWORK | 
 | ----- | ----- | ----- |
-| ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white  | 	https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  | ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
 
 | IDE |
 | ----- | 
