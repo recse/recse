@@ -34,4 +34,5 @@ I am a person who is passionate about cybersecurity and development. I started p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=recse&layout=compact)
 ## Look at me! 👀
 <img alt="Instagram" src="https://img.shields.io/badge/therecse-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="Gmail" src="https://img.shields.io/badge/adrianbelmonte94-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="LinkedIn" src="https://img.shields.io/badge/belmonteadrian-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
