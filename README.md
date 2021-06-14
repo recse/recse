@@ -5,13 +5,13 @@ I was born in Valencia, Spain in 1994 and right now I'm living in Madrid, Spain.
 
 I am a person who is passionate about cybersecurity and development. I started programming when I was 10 years old, my hobby and dedication to this sector is inconceivable.
 ## Official Education 👨🏻‍🎓
--2010-2012 | Baccalaureate (Bachillerato). IES Fuente San Luis, Valencia.
 
--2014-2016 | International Business Higher Grade (Grado Superior en Comercio Internacional). IES Pax, Valencia.
-
--2019-2020 | Professional Certificate in Computer Legal Forensic Expertise & Computer law (Certificado de profesionalidad en Derecho Informático y Perito Judicial Informático). ANTPJI, Madrid.
-
--2019-2021 | Multi-platform app developer Higher Grade (Grado Superior en Desarrollo de Aplicaciones Multiplataforma). Centro de estudios Heise-Teide, Madrid.
+| Year | Title | Place |
+| ------------- | ------------- | ------------- |
+| 2010-2012  | Baccalaureate (Bachillerato)  | IES Fuente San Luis, Valencia.  |
+| 2014-2016  | International Business Higher Grade (Grado Superior en Comercio Internacional)  | IES Pax, Valencia.  |
+| 2019-2020  | Professional Certificate in Computer Legal Forensic Expertise & Computer law (Certificado de profesionalidad en Derecho Informático y Perito Judicial Informático)  | ANTPJI (Asociación Nacional de Tasadores y Peritos Judiciales), Madrid  |
+| 2019-2021  | Multi-platform app developer Higher Grade (Grado Superior en Desarrollo de Aplicaciones Multiplataforma)  | Centro de estudios Heise-Teide, Madrid  |
 ## Certificates 🏆
 -2020 | Introduction to Cybersecurity (EDU010). Palo Alto.
 
