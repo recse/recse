@@ -55,7 +55,7 @@ I am a person who is passionate about cybersecurity and development 💙. I star
 |   | ![](https://img.shields.io/badge/LinkedIn-DevOps%20con%20un%20caf%C3%A9-blue)   
 |   | ![](https://img.shields.io/badge/LinkedIn-Big%20Data%20con%20un%20caf%C3%A9-blue)   
 
-## Statistics
+## Statistics 📈
 
 ![](https://github-readme-stats.vercel.app/api?username=recse&show_icons=true&theme=dracula)
 
