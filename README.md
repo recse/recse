@@ -23,7 +23,7 @@ My fullname is Adrián Belmonte Sepúlveda (recse on Internet)
 
 I was born in Valencia, Spain🏖️ in 1994 and right now I'm living in Madrid, Spain.🏠
 
-I am a person who is passionate about cybersecurity and development. I started programming when I was 10 years old, my hobby and dedication to this sector is inconceivable.
+I am a person who is passionate about cybersecurity and development 💙. I started programming when I was 10 years old, my hobby and dedication to this sector is inconceivable 🏃.
 ## Official Education 👨🏻‍🎓
 
 | Year | Title | Place |
