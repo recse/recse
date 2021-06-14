@@ -49,17 +49,20 @@ I am a person who is passionate about cybersecurity and development 💙. I star
 | ------------- | ------------- | ------------- |
 | ![](https://img.shields.io/badge/Google%20Act%C3%ADvate-Curso%20de%20Introducci%C3%B3n%20al%20Desarrollo%20Web:%20HTML-cyan)  |  ![](https://img.shields.io/badge/Udemy-Introducci%C3%B3n%20a%20Linux-red)![](https://img.shields.io/badge/Udemy-Shopify-red)  | ![](https://img.shields.io/badge/Udemy-Bash:%20Interprete%20de%20comandos%20de%20Linux-red)  |
 | ![](https://img.shields.io/badge/Google%20Act%C3%ADvate-Curso%20de%20Introducci%C3%B3n%20al%20Desarrollo%20Web:%20CSS-cyan)  | ![](https://img.shields.io/badge/Udemy-Aprende%20PHP%20desde%20cero-red)  | ![](https://img.shields.io/badge/Udemy-Introducci%C3%B3n%20a%20Java%20desde%20cero-red) |
-|   | ![](https://img.shields.io/badge/Udemy-SQL%20Server:%20Sentencias%20y%20procedimientos-red)  | ![](https://img.shields.io/badge/Udemy-Aprende%20a%20enviar%20correo%20con%20PHP,%20MySQL%20y%20HTML-red)  
-|   | ![](https://img.shields.io/badge/Udemy-Desarrollo%20web%20en%20HTML-red)  |  ![](https://img.shields.io/badge/Udemy-M%C3%A1ster%20en%20Python-red)
+|![](https://img.shields.io/badge/LinkedIn-Big%20Data%20con%20un%20caf%C3%A9-blue)   | ![](https://img.shields.io/badge/Udemy-SQL%20Server:%20Sentencias%20y%20procedimientos-red)  | ![](https://img.shields.io/badge/Udemy-Aprende%20a%20enviar%20correo%20con%20PHP,%20MySQL%20y%20HTML-red)  
+| ![](https://img.shields.io/badge/LinkedIn-DevOps%20con%20un%20caf%C3%A9-blue)| ![](https://img.shields.io/badge/Udemy-Desarrollo%20web%20en%20HTML-red)  |  ![](https://img.shields.io/badge/Udemy-M%C3%A1ster%20en%20Python-red)
 |   | ![](https://img.shields.io/badge/LinkedIn-Productividad%20con%20un%20caf%C3%A9-blue)  | ![](https://img.shields.io/badge/Codigo%20Facilito-Curso%20profesional%20de%20Python-green)   
-|   | ![](https://img.shields.io/badge/LinkedIn-DevOps%20con%20un%20caf%C3%A9-blue)   
-|   | ![](https://img.shields.io/badge/LinkedIn-Big%20Data%20con%20un%20caf%C3%A9-blue)   
+
 
 ## Statistics 📈
 
-![](https://github-readme-stats.vercel.app/api?username=recse&show_icons=true&theme=dracula)
+<a href="https://github.com/recse/recse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recse&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
+</a>
+<a href="https://github.com/recse/recse">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=recse&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Recse's GitHub Stats" />
+</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=recse&layout=compact)
 ## Look at me! 👀
 | Website-Portfolio | Linkedin | E-mail | Instagram |
 | ------------- | ------------- | ------------- | ------------- |
