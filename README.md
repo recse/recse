@@ -7,14 +7,20 @@
 <p align="center">
 
   <a href="https://www.instagram.com/therecse/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
   </a>
   <a href="http://linkedin.com/in/belmonteadrian" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="link" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/linkedin.svg" alt="link" height="28px" width="28px" />
   </a>
    <a href=mailto:"adrianbelmonte94@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/gmail.svg" alt="gmail" height="28px" width="28px" />
   </a>
+   </a>
+   <a href=http://www.adrianbelmonte.es/ target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/google.svg" alt="web" height="28px" width="28px" />
+  </a>
+   
+   
   
 </p>
 
@@ -47,25 +53,16 @@ I am a person who is passionate about cybersecurity and development 💙. I star
 | ACTUALLY | CompTIA Network+ Certificated (N10-007)  | CompTIA  |
 ## Languages and Technologies 👨🏻‍💻
 
-| CYBERSECURITY | ![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white) | ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) |
-|---------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------:|
+|                                              CYBERSECURITY                                              | FRONTEND                                                                                                 | FRAMEWORKS                                                                                                 | BACKEND                                                                                           | FRAMEWORKS                                                                                            | IDE                                                                                                                         |
+|:-------------------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)             | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)       | ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)   | ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)                           |
+| ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)              | ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) | ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) | ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)                           |
+| ![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white) | ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)            | ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)          | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   | ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)             | ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 
-| FRONTEND                                                                                                 | FRAMEWORK                                                                                                  | --------------- | BACKEND                                                                                           | FRAMEWORK                                                                                             |
-|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)            | ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)             | --------------- | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   | ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) |
-| ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)              | ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)          | --------------- | ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)   |
-| ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) | --------------- | ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)       | ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)             |
+| DATABASE                                                                                      | CLOUD                                                                                           | ANDROID                                                                                          | IOS                                                                                           | FRAMEWORKS                                                                                        |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
 
-| DATABASE                                                                                      | CLOUD                                                                                           |
-|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) |
-
-| ANDROID                                                                                          | IOS                                                                                           | FRAMEWORK                                                                                         |
-|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) | ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-
-| IDE | ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) | ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) |
-|-----|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 
 
 ## Unofficial Education 🤓
@@ -91,7 +88,7 @@ I am a person who is passionate about cybersecurity and development 💙. I star
 ## Look at me! 👀
 | Website-Portfolio | Linkedin | E-mail | Instagram |
 | ------------- | ------------- | ------------- | ------------- |
-| <a href="https://www.adrianbelmonte.com" target="_blank"><img src="https://img.shields.io/badge/www.adrianbelmonte.com-www.adrianbelmonte.com-white">  | <a href="http://linkedin.com/in/belmonteadrian" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> | <a href="mailto: adrianbelmonte94@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | <a href="https://www.instagram.com/therecse/?hl=es" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> |
+| <a href="https://www.adrianbelmonte.es" target="_blank"><img src="https://img.shields.io/badge/www.adrianbelmonte.es-www.adrianbelmonte.es-white">  | <a href="http://linkedin.com/in/belmonteadrian" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> | <a href="mailto: adrianbelmonte94@gmail.com" target="blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | <a href="https://www.instagram.com/therecse/?hl=es" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> |
 
 
 
