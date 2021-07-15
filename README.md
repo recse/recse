@@ -43,6 +43,7 @@ I am a person who is passionate about cybersecurity and development 💙. I star
 | 2014-2016  | International Business Higher Grade (Grado Superior en Comercio Internacional)  | IES Pax, Valencia.  |
 | 2019-2020  | Professional Certificate in Computer Legal Forensic Expertise & Computer law (Certificado de profesionalidad en Derecho Informático y Perito Judicial Informático)  | ANTPJI (Asociación Nacional de Tasadores y Peritos Judiciales), Madrid  |
 | 2019-2021  | Multi-platform app developer Higher Grade (Grado Superior en Desarrollo de Aplicaciones Multiplataforma)  | Centro de estudios Heise-Teide, Madrid  |
+| 2021 - Actually | University Degree of Computer Engineering | Universitat Oberta de Cataluña (UOC) |
 ## Certificates 🏆
 
 | Year | Title | Company |
