@@ -3,7 +3,7 @@
    <h3 align="center">Hi!👋🏻 I'm Adrián Belmonte 👨🏻‍💻</h3>
 </p>
 
-<p align="center">I'm <strong>Fullstack developer</strong>.<br />¡Contact with me 👇!</p>
+<p align="center">I'm <strong> a Cybersecurity Engineer and fullstack developer</strong>.<br />¡Contact with me 👇!</p>
 <p align="center">
 
   <a href="https://www.instagram.com/therecse/" target="blank">
