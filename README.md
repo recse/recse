@@ -20,8 +20,9 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/google.svg" alt="web" height="28px" width="28px" />
   </a>
    
-   
-  
+ <p align="center" width="300">  
+  <a href="https://ibb.co/DwyVz4w"><img src="https://i.ibb.co/SV8s5NV/vecteezy-closed-padlock-on-digital-background-cyber-security.jpg" alt="vecteezy-closed-padlock-on-digital-background-cyber-security" border="0"></a>
+ </p>  
 </p>
 
 ## Who's Recse 👦?
